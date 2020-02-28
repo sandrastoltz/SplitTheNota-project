@@ -10,13 +10,14 @@ const sumDivided;
 const calculatedTip;
 const total; */
 
-
+//Hämtar det som skrivits i inputfältet med ID tip
 document.getElementById('tip').value;
 
 function calculateTip(sum, tip) {}
 
 document.getElementById('calculateButton').addEventListener('click', function() {});
 
+//Hämtar det som skrivits i inputfältet med ID sum
 document.getElementById('sum').value;
 
 calculateTip(sum, tip);
@@ -27,6 +28,7 @@ function divideTotal(total, numberOfFriends) {}
 
 document.getElementById('friendSum').innerHTML = sum + ' kr';
 
+//Returnerar värdet i variablen sumDivided i en funktion
 return sumDivided;
 
 showDividedSum(friendSum);
@@ -41,8 +43,10 @@ document.getElementById('inputForm').classList.toggle('hide');
 
 parseInt(sum) * parseFloat(tip);
 
+//Returnerar värdet i variablen total i en funktion
 return total;
 
 divideTotal(total, numberOfFriends);
 
+//Hämtar det som skrivits i inputfältet med ID numberOfFriends
 document.getElementById('numberOfFriends').value;
