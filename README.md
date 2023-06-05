@@ -4,7 +4,7 @@ Split the nota räknar ut hur mycket varje vän ska betala på exempelvis en res
 
 ## Instruktioner
 
-All HTML, CSS och Javascript som ni behöver finns. Er utmaning är att lägga all kod i index.js i rätt ordning så sidan funkar. Testa er fram och använd konsolen i Chrome developer tools för att se eventuella Javascript fel. När sidan funkar har ni löst det. **Ni behöver inte skriva någon ny JS-kod utan all kod som behövs finns.**
+All HTML, CSS och Javascript som ni behöver finns. Er utmaning är att skapa en typescript - fil (.ts) och typa upp koden enligt typescripts syntax.
 
 **Räkna ut**
 ![alt text](screenshots/Screen-calculate.png)
